@@ -54,7 +54,7 @@
 }
 .header-list{
     margin-top: 40px;
-    justify-content: center;
+    /* justify-content: center; */
     height: 200px;
     border: 1px solid red;
 }

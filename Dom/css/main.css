@@ -53,8 +53,8 @@
      color: aliceblue;
 }
 .header-list{
+    margin-top: 40px;
     justify-content: center;
-    width: 200px;
     height: 200px;
     border: 1px solid red;
 }
